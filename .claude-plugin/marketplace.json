@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "knowledge-brain",
+  "description": "个人第二大脑：智能消化入库、索引管理、预加载问答、知识同步。基于飞书 Wiki 构建的个人知识管理系统。",
+  "owner": {
+    "name": "jiafuz",
+    "url": "https://github.com/jiafuz"
+  },
+  "plugins": [
+    {
+      "name": "knowledge-brain",
+      "description": "A personal second brain system with intelligent content digestion, index management, knowledge sync, and Lark Wiki integration. Features include /digest for content ingestion, /sync for knowledge synchronization, and /knowledge-init for setup.",
+      "source": ".",
+      "category": "productivity",
+      "tags": ["knowledge-management", "second-brain", "lark", "wiki", "digest", "personal-knowledge-base"]
+    }
+  ]
+}
