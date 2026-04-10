@@ -10,7 +10,7 @@
     {
       "name": "knowledge-brain",
       "description": "A personal second brain system with intelligent content digestion, index management, knowledge sync, and Lark Wiki integration. Features include /digest for content ingestion, /sync for knowledge synchronization, and /knowledge-init for setup.",
-      "source": ".",
+      "source": "./plugins/knowledge-brain",
       "category": "productivity",
       "tags": ["knowledge-management", "second-brain", "lark", "wiki", "digest", "personal-knowledge-base"]
     }
